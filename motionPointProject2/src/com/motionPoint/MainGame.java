@@ -29,6 +29,7 @@ public class MainGame extends JPanel implements ActionListener{
 	private static JButton decreaseSpeedButton;
 	private static JButton increaseSpeedButton;
 	private static JButton url;
+	private static JButton test;
 	
 	protected static Circle c1, c2, selectedCircle;
 	
